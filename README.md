@@ -11,4 +11,4 @@ This project is a simple web application that allows users to create and manage 
 * Mark tasks as completed
 * Delete tasks from a to-do list
 
-Created by Rahul Yadav
+  Created by Rahul Yadav.
